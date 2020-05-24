@@ -1,0 +1,7 @@
+2020 May 8  Complied pre_data
+2020 May 10 Compiled train (the number of convolution kernels = channel number of image)
+2020 May 11 Compiled padding = valid but not same in Conv2D()function
+            Compiled dataset and part of train
+            Complied train
+2020 May 22 Compiled train + test
+            1. cross_entropy as loss!
